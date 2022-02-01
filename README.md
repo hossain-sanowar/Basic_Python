@@ -15,4 +15,7 @@
   - for_loop
   - while_loop
   - Break_Continue_Pass
+- Function
+  - basic_function
+  - 
 
