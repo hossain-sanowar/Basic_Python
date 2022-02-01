@@ -4,3 +4,4 @@
 3. Dictionaries
 4. Tuple
 5. Set
+6. List
