@@ -1,6 +1,6 @@
 # Basic_Python
-1. Compression
-2. Data Structure
+- Compression
+- Data Structure
   1. String
   2. Dictionaries
   3. Tuple
