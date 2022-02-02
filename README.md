@@ -19,6 +19,6 @@
   - basic_function
   - advanced_function
 - Fibonacci series
-  -iterable
-  -iterator
-  -generator
+  - iterable
+  - iterator
+  - generator
