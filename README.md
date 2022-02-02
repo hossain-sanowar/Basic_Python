@@ -22,3 +22,7 @@
   - iterable
   - iterator
   - generator
+- File
+  - Read
+  - Write
+  - Directory
