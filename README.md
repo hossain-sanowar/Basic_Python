@@ -26,3 +26,4 @@
   - Read
   - Write
   - Directory
+- Exception Handling
