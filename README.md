@@ -27,4 +27,5 @@
   - Write
   - Directory
 - Exception Handling
+  - Exception class hierarchy
 - Logging
