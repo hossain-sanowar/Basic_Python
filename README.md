@@ -27,3 +27,4 @@
   - Write
   - Directory
 - Exception Handling
+- Logging
