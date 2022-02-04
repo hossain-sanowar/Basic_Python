@@ -1,3 +1,5 @@
+https://docs.python.org/3/tutorial/
+
 # Basic_Python
 - Compression:
   - Dictionaries
