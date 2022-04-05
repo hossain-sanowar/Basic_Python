@@ -30,4 +30,5 @@ https://docs.python.org/3/tutorial/
   - Directory
 - Exception Handling
   - Exception class hierarchy
+  - Exception Inheritence
 - Logging
